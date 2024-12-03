@@ -1,8 +1,8 @@
 name = "Ildar"
 print(name)
-age = 'age:31'
-print(age)
-new_age = 'new age:32'
-print(new_age)
+age = 31
+print(f'age: {age}')
+new_age = 32
+print(f'new_age: {new_age}')
 is_student = True
 print(is_student)
